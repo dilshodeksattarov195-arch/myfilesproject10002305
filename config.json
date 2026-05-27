@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsonnect",
+        "uuid": 11451240,
+        "checksum": "cwwb5a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
